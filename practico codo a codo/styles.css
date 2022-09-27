@@ -75,5 +75,14 @@ strong{
     width: 406px;
     height: 90px;
 }
+.codoacodo{
+    width: 60px;
+}
+footer{
+    color: aliceblue;
+    display: block;
+    height: 80px;
+    background-color: rgb(60, 60, 107);
+}
 
 
