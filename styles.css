@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Hind', sans-serif;
+    text
+}
+
+strong{
+    font-size: 25px;
+}
+.conferencia {
+    width: 100%;
+    opacity: 100%;
+}
+
+.orators{
+    text-align: center; 
+}
+
+.orador {
+    width: 250px;
+}
+
+.oradores{
+    align-items: center;
+    justify-content: center;
+    display: flex
+}
+.caja{
+    height: 500px;
+    width: 250px;
+    border: 2px solid rgb(98, 78, 78);
+    margin: 20px;
+    padding-bottom: 60px;
+}
+
+.honolulu{
+    background-color: rgb(63, 62, 62);
+    color: aliceblue;
+    display: flex;
+    font-size: 20px;
+}
+.playa{
+    width: 50%;
+    border-right: 4px solid;
+}
+
