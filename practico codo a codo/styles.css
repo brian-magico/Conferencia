@@ -9,10 +9,7 @@
 strong{
     font-size: 25px;
 }
-.conferencia {
-    height: 25%px;
-    opacity: 1;
-}
+
 #palace{
     background-color: rgb(0, 0, 0);
     width: 100%;
@@ -71,6 +68,8 @@ strong{
     text-decoration: dotted;
 }
 
+
+
 #nombre{
     width: 200px;
 }
@@ -82,7 +81,7 @@ strong{
     height: 90px;
 }
 .codoacodo{
-    width: 50px;
+    width: 100px;
     
 }
 footer{
