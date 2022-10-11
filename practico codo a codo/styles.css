@@ -70,40 +70,28 @@ strong{
     text-align: center;
 }
 
-.ignite{
-    text-decoration: dotted;
+#ignite{
+    text-decoration-style: dotted;
 }
 
 
 
 #nombre{
-    width: 200px;
+    width: 333px;
 }
 #apellido{
-    width: 200px;
+    width: 333px;
 }
 #tema{
-    width: 406px;
+    width: 668px;
     height: 90px;
 }
 .codoacodo{
     width: 100px;
     
 }
-footer{
-    color: aliceblue;
-    display: block;
-    height: 80px;
-    background-color: rgb(60, 60, 107);
+.charla{
+    position: absolute;
+    left: 342px;
+    color: gray;
 }
-
-.badge {
-    --bs-badge-padding-x: 0.65em;
-    --bs-badge-padding-y: 0.35em;
-    --bs-badge-font-size: 0.75em;
-    --bs-badge-font-weight: 700;
-    --bs-badge-color: rgb(0, 0, 0);
-    --bs-badge-border-radius: 0.375rem;
-}
-
-
